@@ -1,6 +1,6 @@
 # Fundraiser-Goal-Tracker
 
-This Python script retrieves calculates finances for fundraisers
+This Python script calculates finances for fundraisers
 
 ## If you're not sure how to run it, feel free to watch the YouTube tutorial on it:
 
